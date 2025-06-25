@@ -169,9 +169,9 @@ python ALPR_2.0.py
 
 <details open>
 <summary><b>🤹‍♂️ How Multithreading Supercharges XFAST-ALPR</b> (click to expand)</summary>
-
+<br>
 <p align="center">
-  <img src="https://img.icons8.com/fluency/96/000000/multithreading.png" width="80"/>
+  <img src="https://cdn-icons-png.freepik.com/256/9954/9954542.png?semt=ais_hybrid" width="150"/>
 </p>
 
 <p>
