@@ -210,17 +210,14 @@ def get_ocr_result(crop_filename):
 ---
 
 ## 🎥 Full Pipeline Demo Video
-
+<div align="center" style="margin-bottom:2em;">
 <p align="center">
   
-
 https://github.com/user-attachments/assets/96da7ca9-2a8d-4b0d-a199-cc85e40959bc
 
-
-  <br/>
-  <em>XFAST-ALPR in action: Motion detection, plate cropping, and OCR in real time.</em>
+  <em>XFAST-ALPR in action: Motion detection, plate cropping, and OCR in real time 🔥</em>
 </p>
-
+</div>
 ---
 
 ## 🖼️ Visual Gallery
