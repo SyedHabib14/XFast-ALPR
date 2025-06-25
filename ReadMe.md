@@ -171,7 +171,7 @@ python ALPR_2.0.py
 <summary><b>🤹‍♂️ How Multithreading Supercharges XFAST-ALPR</b> (click to expand)</summary>
 <br>
 <p align="center">
-  <img src="https://cdn-icons-png.freepik.com/256/9954/9954542.png?semt=ais_hybrid" width="150"/>
+  <img src="https://repository-images.githubusercontent.com/348082335/caaa2f80-8662-11eb-8fb5-190d10a744c5" width="250"/>
 </p>
 
 <p>
