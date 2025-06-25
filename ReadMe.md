@@ -19,15 +19,15 @@
 # 🌌 X<sup style="color:#0d7bd6;font-weight:600; font-family: 'Open Sans', sans-serif;">treme</sup>Fast: An Automatic License Plate Recognition System built for blazing speed on edge devices with CPU-only inference.
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60" title="OpenCV"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" title="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" title="Pandas"/>
-  <img src="https://storage.googleapis.com/organization-image-assets/ultralytics-botAvatarSrcUrl-1729379860806.svg" width="60" title="Ultralytics YOLO"/>
-  <img src="https://raw.githubusercontent.com/onnx/onnx.github.io/main/images/ONNX-ICON.svg" width="60" title="ONNX"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx7kQCmpJvs1rHt1zDwU37f_A5AZSBZ1IYoA&s" width="80" title="EasyOCR"/>
-  <img src="https://raw.githubusercontent.com/RapidAI/RapidOCR/main/assets/RapidOCR_LOGO.png" width="90" title="RapidOCR"/>
-  <img src="https://img.icons8.com/color/48/000000/ms-excel.png" width="60" title="Excel (openpyxl)"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python" style="transition: transform 0.5s ease; transform: scale(1.1);" onmouseover="this.style.transform='scale(1.5)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60" title="OpenCV" style="transition: transform 0.5s ease; transform: scale(1.1);" onmouseover="this.style.transform='scale(1.5)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" title="NumPy" style="transition: transform 0.5s ease; transform: scale(1.1);" onmouseover="this.style.transform='scale(1.5)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" title="Pandas" style="transition: transform 0.5s ease; transform: scale(1.1);" onmouseover="this.style.transform='scale(1.5)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://storage.googleapis.com/organization-image-assets/ultralytics-botAvatarSrcUrl-1729379860806.svg" width="60" title="Ultralytics YOLO" style="transition: transform 0.5s ease; transform: scale(1.1);" onmouseover="this.style.transform='scale(1.5)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://raw.githubusercontent.com/onnx/onnx.github.io/main/images/ONNX-ICON.svg" width="60" title="ONNX" style="transition: transform 0.5s ease; transform: scale(1.1);" onmouseover="this.style.transform='scale(1.5)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx7kQCmpJvs1rHt1zDwU37f_A5AZSBZ1IYoA&s" width="80" title="EasyOCR" style="transition: transform 0.5s ease; transform: scale(1.1);" onmouseover="this.style.transform='scale(1.5)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://cdn-thumbnails.huggingface.co/social-thumbnails/spaces/RapidAI/RapidOCR.png" width="90" title="RapidOCR" style="transition: transform 0.5s ease; transform: scale(1.1); border-radius: 10px;" onmouseover="this.style.transform='scale(1.5)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://img.icons8.com/color/48/000000/ms-excel.png" width="60" title="Excel (openpyxl)" style="transition: transform 0.5s ease; transform: scale(1.1);" onmouseover="this.style.transform='scale(1.5)'" onmouseout="this.style.transform='scale(1)'"/>
 </div>
 
 
