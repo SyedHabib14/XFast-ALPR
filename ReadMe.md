@@ -270,7 +270,7 @@ It's an art of Speed, Precision, and Elegance — fused 💖</center>
 
 ---
 
-> <br>⚠️ **Notice**  <br> <i>
+> ⚠️ **Notice** <i>
 > This repository serves as a **public showcase** of my work on XFast-ALPR.  
 > The actual production code and models are **not included** due to a binding **Non-Disclosure Agreement (NDA)**.  
 > All code and assets here are either simulated, stripped down, or demonstrative only. </i>
