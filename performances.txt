@@ -1,0 +1,22 @@
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Testing EasyOCR...
+EasyOCR result: ['FAAKIII', '"AOZ 456']
+EasyOCR time: 0.4526 seconds
+
+Testing RapidOCR...
+RapidOCR result: ['A0Z 456', 'FNlan']
+RapidOCR time: 1.2330 seconds
+
+Testing ONNXPlateRecognizer...
+ONNXPlateRecognizer result: ['AQZ456___']
+ONNXPlateRecognizer time: 0.0108 seconds
+
+--- Performance Comparison ---
+Fastest model: ONNXPlateRecognizer (0.0108 seconds)
+All times:
+  ONNXPlateRecognizer: 0.0108 seconds
+  EasyOCR: 0.4526 seconds
+  RapidOCR: 1.2330 seconds
+
+
+YOLOv12b summary (fused): 72 layers, 287,462 parameters, 0 gradients, 2.1 GFLOPs
