@@ -6,8 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mode-Light%20%2F%20Dark-22223B?style=for-the-badge&logo=vercel" alt="Light/Dark Mode"/>
-  <img src="https://img.shields.io/badge/Status-Production%20Ready-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Production%20Ready-Beta-blueviolet?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/OpenCV-4.x-green?style=for-the-badge&logo=opencv"/>
   <img src="https://img.shields.io/badge/Custom%20ALPR%20Model-UltraFast%20%7C%20Accurate-06B6D4?style=for-the-badge"/>
