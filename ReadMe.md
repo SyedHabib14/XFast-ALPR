@@ -1,6 +1,6 @@
 <!-- Animated Logo and Badges -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=XFAST-ALPR%3A+%F0%9F%9A%97+XFAST+Automatic+License+Plate+Recognition" alt="XFAST-ALPR"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=XFAST-ALPR%3A+%F0%9F%9A%97+XFAST+A+SoTA+ALPR" alt="XFAST-ALPR"/>
   <br/>
   <sup><b>X</b> = <span style="color:#06B6D4;font-weight:bold;">Xtreme</span></sup>
 </p>
