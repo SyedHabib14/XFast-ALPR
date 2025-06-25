@@ -104,7 +104,7 @@ XFAST-ALPR/
 ├── RapidCheck.py         # OCR benchmarking utility
 │
 ├── models/
-│   ├── LPR-YOLO-best.onnx                # Custom YOLOv8-based detector
+│   ├── LPR-YOLO-best.onnx                # Custom YOLOv12-based detector
 │   └── global_mobile_vit_v2_ocr.onnx     # Custom OCR model
 │
 ├── assets/               # Demo GIFs, screenshots, videos
