@@ -226,7 +226,7 @@ def get_ocr_result(crop_filename):
 
 | Processed Results [Excel Workbook] | Live Output Results |
 |-----------|---------------------|
-| ![](assets/Screenshot%202025-06-23%20201949.png) | ![](assets/visualize_predictions-gif-68596f26e8411.gif){ width="350vw" } |
+| ![](assets/Screenshot%202025-06-23%20201949.png) | ![](assets/visualize_predictions-gif-68596f26e8411.gif) |
 
 ---
 
