@@ -210,7 +210,7 @@ def get_ocr_result(crop_filename):
 ---
 
 ## 🎥 Full Pipeline Demo Video
-<div align="center" style="margin-bottom:2em;">
+<div align="center" style="margin-bottom:2em; height:100%; width:100%">
 <p align="center">
   
 https://github.com/user-attachments/assets/96da7ca9-2a8d-4b0d-a199-cc85e40959bc
