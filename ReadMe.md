@@ -34,7 +34,7 @@
 
 <br>
 
-> <br> **XFAST-ALPR** is an ultra-fast, production-grade ALPR system built for real-time, high-accuracy vehicle and license plate recognition. Featuring custom-designed detection and OCR models, it outpaces industry standards. RapidOCR and EasyOCR are included only for benchmarking—**the core engine is 100% custom and optimized for speed and accuracy**. 
+> **XFAST-ALPR** is an ultra-fast, production-grade ALPR system built for real-time, high-accuracy vehicle and license plate recognition. Featuring custom-designed detection and OCR models, it outpaces industry standards. RapidOCR and EasyOCR are included only for benchmarking—**the core engine is 100% custom and optimized for speed and accuracy**. 
 <br>
 
 ---
